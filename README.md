@@ -24,4 +24,4 @@ Part Three:
 1.	Story Map tutorial
 
 Part Four:
-2.	Continue Learning
+1.	Continue Learning

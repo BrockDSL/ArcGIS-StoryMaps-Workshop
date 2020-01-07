@@ -24,6 +24,7 @@ Part Three:
 1.	Story Map tutorial
 
 Part Four: Continue Learning
+
 •	Story Maps Overview https://bit.ly/2MRMQ7w 
 
 •	Getting Started with StoryMaps https://bit.ly/2MTQ36F 

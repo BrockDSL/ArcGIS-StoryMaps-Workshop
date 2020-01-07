@@ -1,8 +1,6 @@
 # StoryMaps
 Resources for the ArcGIS StoryMaps workshop using the hobby of geocaching as a topic for creating an online story map.
 
-# Prepping for the Story Map Workshop
-
 # Part One:Download files from GitHub
 1.	Go to https://github.com/brockmdgl/StoryMap 
 2.	Download the zip file which contains all images, basic outline document for the story map, a step-by-step tutorial and a CSV we will use to create a map.

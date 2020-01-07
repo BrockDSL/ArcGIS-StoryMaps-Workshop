@@ -24,4 +24,13 @@ Part Three:
 1.	Story Map tutorial
 
 Part Four:
-1.	Continue Learning
+1.	Continue Learning:
+•	Story Maps Overview https://bit.ly/2MRMQ7w 
+•	Getting Started with StoryMaps https://bit.ly/2MTQ36F 
+•	Story + Maps: Part 1 https://arcg.is/uWTzC
+•	Story + Maps: Part 2 https://arcg.is/1rvf0X 
+•	Explore Stories (examples) https://bit.ly/3882V1T 
+•	Qualitative Research Café https://bit.ly/367v6fs 
+•	Putting Your Research on the Map https://bit.ly/2RrxWb9
+•	Classic Story Map Templates https://bit.ly/33Z7Hf2
+•	Contact us dsl@brocku.ca or maplib@brocku.ca  

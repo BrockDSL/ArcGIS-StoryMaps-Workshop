@@ -2,13 +2,13 @@
 Resources for the ArcGIS StoryMaps workshop using the hobby of geocaching as a topic for creating an online story map.
 
 # Part One: Download files from GitHub
-1.	Go to https://github.com/brockDSL/StoryMaps 
+1.	Go to [https://github.com/brockDSL/StoryMaps](https://github.com/brockDSL/StoryMaps) 
 2.	Download the zip file which contains all images, basic outline document for the story map, a step-by-step tutorial and a CSV we will use to create a map.
 3.	Extract all files and note where the extracted files are saved (default is in DOWNLOADS directory).
 
 # Part Two: Setting up ArcGIS Online and Making a Map
-1.	Go to Arcgis.com and create a public account.
-2.	Sign in to Arcgis.com
+1.	Go to [Arcgis.com](Arcgis.com) and create a public account.
+2.	Sign in to [Arcgis.com](Arcgis.com)
 3.	Click the MAP tab.
 4.	Click Add > Add layer from file
 5.	Browse to the CSV file previously unzipped in Part One (GPStoGeocaches.csv)
@@ -23,20 +23,20 @@ Resources for the ArcGIS StoryMaps workshop using the hobby of geocaching as a t
 
 # Part Four: Continue Learning
 
-•	Story Maps Overview https://bit.ly/2MRMQ7w 
+•	Story Maps Overview [https://bit.ly/2MRMQ7w](https://bit.ly/2MRMQ7w) 
 
-•	Getting Started with StoryMaps https://bit.ly/2MTQ36F 
+•	Getting Started with StoryMaps [https://bit.ly/2MTQ36F](https://bit.ly/2MTQ36F) 
 
-•	Story + Maps: Part 1 https://arcg.is/uWTzC
+•	Story + Maps: Part 1 [https://arcg.is/uWTzC](https://arcg.is/uWTzC)
 
-•	Story + Maps: Part 2 https://arcg.is/1rvf0X 
+•	Story + Maps: Part 2 [https://arcg.is/1rvf0X](https://arcg.is/1rvf0X) 
 
-•	Classic Story Map Templates https://bit.ly/33Z7Hf2
+•	Classic Story Map Templates [https://bit.ly/33Z7Hf2](https://bit.ly/33Z7Hf2)
 
-•	Explore Stories (examples) https://bit.ly/3882V1T 
+•	Explore Stories (examples) [https://bit.ly/3882V1T](https://bit.ly/3882V1T)
 
-•	Qualitative Research Café https://bit.ly/367v6fs 
+•	Qualitative Research Café [https://bit.ly/367v6fs](https://bit.ly/367v6fs) 
 
-•	Putting Your Research on the Map https://bit.ly/2RrxWb9
+•	Putting Your Research on the Map [https://bit.ly/2RrxWb9](https://bit.ly/2RrxWb9)
 
-•	Contact us dsl@brocku.ca or maplib@brocku.ca  
+•	Contact us [dsl@brocku.ca](dsl@brocku.ca) or [maplib@brocku.ca](maplib@brocku.ca)  

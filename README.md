@@ -27,9 +27,7 @@ Resources for the ArcGIS StoryMaps workshop using the hobby of geocaching as a t
 
 •	Getting Started with StoryMaps [https://bit.ly/2MTQ36F](https://bit.ly/2MTQ36F) 
 
-•	Story + Maps: Part 1 [https://arcg.is/uWTzC](https://arcg.is/uWTzC)
-
-•	Story + Maps: Part 2 [https://arcg.is/1rvf0X](https://arcg.is/1rvf0X) 
+•	Planning and Outlining your StoryMap [https://www.esri.com/arcgis-blog/products/arcgis-storymaps/sharing-collaboration/planning-and-outlining-your-story-map-how-to-set-yourself-up-for-success/](https://bit.ly/3taMtHW)
 
 •	Classic Story Map Templates [https://bit.ly/33Z7Hf2](https://bit.ly/33Z7Hf2)
 

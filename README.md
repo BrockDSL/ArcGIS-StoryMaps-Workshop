@@ -7,8 +7,8 @@ Resources for the ArcGIS StoryMaps workshop using the hobby of geocaching as a t
 3.	Extract all files and note where the extracted files are saved (default is in DOWNLOADS directory).
 
 # Part Two: Signing into ArcGIS StoryMaps
-1.	Go to [Arcgis.com](Arcgis.com).
-2.	Sign in to [Arcgis.com](Arcgis.com)**Brock University affiliates can sign in using their Brock credentails as per these instructions [https://youtu.be/GqH4UHTUf2s](https://youtu.be/GqH4UHTUf2s)**  
+1.	Go to [Arcgis.com](Arcgis.com) and sign in with your organizational account.  
+2.	**Brock University affiliates can sign in using their Brock credentails as per these instructions [https://youtu.be/GqH4UHTUf2s](https://youtu.be/GqH4UHTUf2s)**  
 3.	Click the waffle menu at the top right of the window and select ArcGIS StoryMaps 
 
 # Part Three: Step-by-Step Tutorial for Creating a Story Map

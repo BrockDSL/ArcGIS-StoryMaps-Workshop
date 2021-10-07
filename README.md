@@ -3,20 +3,13 @@ Resources for the ArcGIS StoryMaps workshop using the hobby of geocaching as a t
 
 # Part One: Download files from GitHub
 1.	Go to [https://github.com/brockDSL/StoryMaps](https://github.com/brockDSL/StoryMaps) 
-2.	Download the zip file which contains all images, basic outline document for the story map, a step-by-step tutorial and a CSV we will use to create a map.
+2.	Download the zip file which contains all images and a basic outline document for the story map.
 3.	Extract all files and note where the extracted files are saved (default is in DOWNLOADS directory).
 
-# Part Two: Setting up ArcGIS Online and Making a Map
-1.	Go to [Arcgis.com](Arcgis.com) and create a public account.
-2.	Sign in to [Arcgis.com](Arcgis.com)
-3.	Click the MAP tab.
-4.	Click Add > Add layer from file
-5.	Browse to the CSV file previously unzipped in Part One (GPStoGeocaches.csv)
-6.	Click Open then Import Layer.
-7.	Select SHOW LOCATION ONLY
-8.	Click SYMBOL > Outdoor Recreation > treasure chest closed, size 25
-9.	Click OK and DONE.
-10.	Click SAVE > SAVE AS and provide a name for the webmap with appropriate tags (‘geocache’, ‘Brock’)
+# Part Two: Signing into ArcGIS StoryMaps
+1.	Go to [Arcgis.com](Arcgis.com).
+2.	Sign in to [Arcgis.com](Arcgis.com)**Brock University affiliates can sign in using their Brock credentails as per these instructions [https://youtu.be/GqH4UHTUf2s](https://youtu.be/GqH4UHTUf2s)**  
+3.	Click the waffle menu at the top right of the window and select ArcGIS StoryMaps 
 
 # Part Three: Step-by-Step Tutorial for Creating a Story Map
 1.	Story Map tutorial (access from GitHub repository)
